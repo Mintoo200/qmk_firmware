@@ -1,0 +1,7 @@
+# Convert from Elite-C to Liatris
+CONVERT_TO=liatris
+RGBLIGHT_ENABLE = yes
+ENCODER_ENABLE = yes
+ENCODER_MAP_ENABLE = yes
+COMBO_ENABLE = yes
+OS_DETECTION_ENABLE = yes
